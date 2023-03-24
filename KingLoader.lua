@@ -1,4 +1,3 @@
---- King Legacy มือถือ
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NOOBHUBX/LoadingUI/main/NOOB%20HUB.Lua"))()
 local function gamekiller()
     while true do
@@ -4018,4 +4017,4 @@ end)
       end
       end
    end
-   end)w 
+   end)
